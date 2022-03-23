@@ -7,7 +7,8 @@ const websites = [
   {url: "https://shineforth.harvestapp.com/time"},
   {url: "https://shineforth.atlassian.net/jira/your-work"},
   {url: "https://www.figma.com/file/j8OIo6RKjcXTwc2UZf4c0X/Condo-World.com-shineforth-design-homepage?node-id=780%3A23188"},
-  {url: "https://app.contentful.com/spaces/vecsxsx4go2y/home"}
+  {url: "https://app.contentful.com/spaces/vecsxsx4go2y/home"},
+  {url: "https://calendar.google.com/calendar/u/0/r"}
 ];
 useEffect(()=> {
   handleOpenTabs();
