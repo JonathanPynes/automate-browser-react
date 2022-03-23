@@ -12,7 +12,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <OpenTabs />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Choose what you want most, over what you want now.
         </p>
         <a
           className="App-link"
