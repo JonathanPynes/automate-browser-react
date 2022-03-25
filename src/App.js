@@ -1,8 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import OpenTabs from './components/openTabs';
-import { useEffect } from 'react';
-
+import QuoteAPI from './components/quoteAPI';
 function App() {
   
   return (
@@ -11,6 +10,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <OpenTabs />
+        <QuoteAPI />
         <p>
         Choose what you want most, over what you want now.
         </p>
